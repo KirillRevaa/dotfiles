@@ -37,4 +37,5 @@
         relink: false
         force: false
 
-
+- shell:
+    - dconf load /com/gexperts/Tilix/ < tilix.dconf

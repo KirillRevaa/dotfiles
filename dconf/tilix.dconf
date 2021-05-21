@@ -1,0 +1,41 @@
+[/]
+accelerators-enabled=true
+app-title='${appName}: ${sessionName} '
+control-scroll-zoom=false
+enable-wide-handle=false
+middle-click-close=true
+paste-advanced-default=false
+paste-strip-first-char=true
+prompt-on-close-process=false
+prompt-on-delete-profile=true
+prompt-on-new-session=false
+quake-specific-monitor=0
+session-name='${title}'
+sidebar-on-right=false
+terminal-title-show-when-single=true
+theme-variant='dark'
+warn-vte-config-issue=false
+window-save-state=true
+window-state=87168
+window-style='normal'
+
+[profiles]
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#1E1F29'
+badge-color='#AC7EA8'
+badge-color-set=false
+badge-font='MesloLGS NF 12'
+badge-use-system-font=false
+bold-color-set=false
+bold-is-bright=false
+cursor-colors-set=false
+draw-margin=72
+foreground-color='#F8F8F2'
+highlight-colors-set=false
+login-shell=true
+notify-silence-enabled=false
+palette=['#000000', '#FF5555', '#50FA7B', '#F1FA8C', '#BD93F9', '#FF79C6', '#8BE9FD', '#BBBBBB', '#555555', '#FF5555', '#50FA7B', '#F1FA8C', '#BD93F9', '#FF79C6', '#8BE9FD', '#FFFFFF']
+use-theme-colors=false
+visible-name='Revaa'
